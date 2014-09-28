@@ -21,7 +21,7 @@ build attractive websites based on coder’s own individual interests.
 ###Location
 
 Hip location, avoid the appearance of a classroom or internet cafe, welcoming, aspirational, and fun space,
-e.g., a space like [BARREL](http://www.barrelny.com/about.the-barrel-office/) offices . 
+e.g., a space like [BARREL](http://www.barrelny.com/about/the-barrel-office/) offices . 
 Creative negotiation may be required due to little or no budget for rent. :(
 
 ###Format
