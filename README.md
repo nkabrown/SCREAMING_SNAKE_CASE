@@ -5,7 +5,8 @@ Flushing Web Development Club
 -----------------------------
 
 A growing set of plans for a high-school aged, Flushing-based, coding club
-which hopes to be volunteer-run and free to attend. 
+which hopes to be volunteer-run and free to attend. Currently an imaginative
+entity that might someday be a reality. 
 
 ###Target Audience
 
@@ -28,8 +29,8 @@ Creative negotiation may be required due to little or no budget for rent. :(
 
 Every session: short instruction, coding together, fun project that puts instruction to work,
 one fun thing you can get your computer to do.
-Length = ? hour-and-a-half
-Pair programming = ?
+* Length = ? hour-and-a-half
+* Pair programming = ?
 
 ###Time
 
