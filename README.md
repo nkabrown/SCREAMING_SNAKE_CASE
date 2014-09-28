@@ -22,8 +22,7 @@ build attractive websites based on coder’s own individual interests.
 ###Location
 
 Hip location, avoid the appearance of a classroom or internet cafe, welcoming, aspirational, and fun space,
-e.g., a space like [BARREL](http://www.barrelny.com/about/the-barrel-office/) offices . 
-Creative negotiation may be required due to little or no budget for rent. :(
+e.g., a space like [BARREL](http://www.barrelny.com/about/the-barrel-office/) offices (I’m allowed to dream). Creative negotiation may be required due to little or no budget for rent. :(
 
 ###Format
 
@@ -35,3 +34,7 @@ one fun thing you can get your computer to do.
 ###Time
 
 Saturdays 10:30–12:00 ?
+
+###Code of Conduct
+
+Need to develop a simple Code of Conduct that high-schoolers can understand and follow.

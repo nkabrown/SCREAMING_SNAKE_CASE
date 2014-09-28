@@ -2,3 +2,16 @@
 	width: 900px;
 	margin: 0 auto;
 }
+
+#conduct {
+  text-align: center;
+}
+
+#conduct p a {
+  text-decoration: none;
+  color: #FF1493;
+}
+
+#conduct p a:hover {
+  text-decoration: underline;
+}
