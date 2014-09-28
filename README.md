@@ -9,8 +9,8 @@ which hopes to be volunteer-run and free to attend.
 
 ###Target Audience
 
-I do not want this to be a guys who play internet games 24/7 and never see the light of day 
-kind of club. Appeal to design-minded, creative, artistic kids. Just as appealing and 
+Don’t want this to be a guys who play internet games 24/7 and never see the light of day 
+kind of club. Materials that appeal to design-minded, creative, artistic kids. Just as appealing and 
 welcoming to girls as guys. 
 
 ###Development Goals
@@ -20,9 +20,9 @@ build attractive websites based on coder’s own individual interests.
 
 ###Location
 
-Hip location, avoid the appearance of a classroom, welcoming, aspirational, and fun space,
-e.g., a space like BARREL offices [BARREL](www.barrelny.com/about.the-barrel-office/). 
-Creative negotiation may be required due to little or no budget for rent.
+Hip location, avoid the appearance of a classroom or internet cafe, welcoming, aspirational, and fun space,
+e.g., a space like [BARREL](http://www.barrelny.com/about.the-barrel-office/) offices . 
+Creative negotiation may be required due to little or no budget for rent. :(
 
 ###Format
 
@@ -33,4 +33,4 @@ Pair programming = ?
 
 ###Time
 
-Saturdays 10:30–12:00
+Saturdays 10:30–12:00 ?
